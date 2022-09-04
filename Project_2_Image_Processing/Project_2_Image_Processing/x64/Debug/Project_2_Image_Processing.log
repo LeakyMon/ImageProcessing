@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(576,11): warning C4101: 'resultGreen': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(575,11): warning C4101: 'resultBlue': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(577,11): warning C4101: 'resultRed': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(742,11): warning C4101: 'resultGreen': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(741,11): warning C4101: 'resultBlue': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(743,11): warning C4101: 'resultRed': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(818,11): warning C4101: 'resultGreen': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(817,11): warning C4101: 'resultBlue': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(819,11): warning C4101: 'resultRed': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(906,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(881,11): warning C4101: 'resultGreen': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(880,11): warning C4101: 'resultBlue': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(882,11): warning C4101: 'resultRed': unreferenced local variable
+C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\Project_2_Image_Processing\main.cpp(968,11): warning C4101: 'curr': unreferenced local variable
+  Project_2_Image_Processing.vcxproj -> C:\Users\hecto\Programming\C++ Projects\Project_2_Image_Processing\x64\Debug\Project_2_Image_Processing.exe
